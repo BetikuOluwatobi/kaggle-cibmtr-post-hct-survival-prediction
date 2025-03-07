@@ -57,10 +57,10 @@ The dataset had a **large number of features**, making feature selection crucial
 
 ## Key Takeaways
 
-✅ **Feature selection** played a crucial role in boosting the model’s performance.
-✅ A **stacked LightGBM approach** with multiple seeds provided a **more stable and generalizable** prediction.
-✅ **Survival analysis transformations**, particularly using the **Nelson-Aalen estimator**, improved the accuracy of target encoding.
-✅ **Ensemble-based averaging** across top feature sets ensured better **robustness** and reduced the risk of leaderboard overfitting.
+- **Feature selection** played a crucial role in boosting the model’s performance.
+- A **stacked LightGBM approach** with multiple seeds provided a **more stable and generalizable** prediction.
+- **Survival analysis transformations**, particularly using the **Nelson-Aalen estimator**, improved the accuracy of target encoding.
+- **Ensemble-based averaging** across top feature sets ensured better **robustness** and reduced the risk of leaderboard overfitting.
 
 This method proved to be effective in handling the complexities of survival analysis while maintaining **fairness in predictions across diverse patient groups**. My final model performed exceptionally well on the **private leaderboard**, reinforcing the **robustness** of my approach.
 
@@ -70,7 +70,7 @@ This method proved to be effective in handling the complexities of survival anal
 
 - `solution.ipynb`: The Jupyter notebook containing my best leaderboard solution([see on kaggle](https://www.kaggle.com/code/oluwatobibetiku/cibmtr-submission/notebook?scriptVersionId=224469880)).
 - `feature_information/`: feature-combination scores.
-- `SOLUTION.md`: This is the README file.
+- `README.md`: This is the README file.
 
 ---
 
