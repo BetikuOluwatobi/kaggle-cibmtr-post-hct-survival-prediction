@@ -4,7 +4,7 @@
 
 This competition focused on predicting post-transplant survival rates for patients undergoing allogeneic Hematopoietic Cell Transplantation (HCT). The task was evaluated using a specialized metric, the **Stratified Concordance Index (C-index)**, designed to assess model performance equitably across racial groups, emphasizing the reduction of disparities in transplant outcomes.
 
-My final solution ranked in the **top 27%** (879/3375), achieving a **private leaderboard score of 0.692**, a significant improvement from my **public leaderboard score of 0.684**. This placed my solution just **0.009 away from the winning score of 0.701** and resulted in a **gain of 1199 positions** in the private rankings.
+My final solution ranked in the **top 26%** (857/3325), achieving a **private leaderboard score of 0.692**, a significant improvement from my **public leaderboard score of 0.684**. This placed my solution just **0.009 away from the winning score of 0.701** and resulted in a **gain of 1182 positions** in the private rankings.
 
 ---
 
